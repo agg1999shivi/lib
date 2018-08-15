@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Firebasefoodcubo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_phone">Mobile Number</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_phone">Enter valid Mobile Number </string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_screen_one">screen_one</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="tag_send">send</string>
+
+    <string name="tag_verify">Verify</string>
+    <string name="title_activity_home">Home</string>
+</resources>
